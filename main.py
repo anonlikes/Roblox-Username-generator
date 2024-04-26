@@ -5,7 +5,7 @@ from dhooks import Webhook, Embed
 
 sendtowebhook = True ## (False, True) 
 
-yourwebhook = "here"
+yourwebhook = "heere"
 
 min = 5 
 
